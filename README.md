@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YusufTasdemir
+- 👋 Hi, I’m @YusufTasdemir 22 years old .I am a second year student of electronic communication technology at Marmara University.
 - 👀 I’m interested in C and Python language. I will can learn new things in Github.
 - 🌱 I’m currently learning C and Python.Being able to learn new things on Github
 for.
